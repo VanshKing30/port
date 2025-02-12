@@ -6,7 +6,7 @@ import Image from "next/image";
 import pp from '../public/myImageLol.jpg'
 import ThemeToggle from '../components/ui/theme-toggle';
 import {motion} from "motion/react"
-import { FaGithub, FaLinkedin, FaTwitter, FaYoutube } from "react-icons/fa";
+import { FaGithub, FaLinkedin, FaTwitter } from "react-icons/fa";
 import { SiLeetcode } from "react-icons/si";
 import { Card, CardContent } from "@/components/ui/card";
 
