@@ -43,7 +43,7 @@ export default function Home() {
             
             <h1 className="text-4xl font-bold bg-gradient-to-r from-rose-600 via-indigo-500 to-sky-500 bg-clip-text text-transparent">Vansh  Waldeo</h1>
             
-            <p className="text-gray-600 dark:text-gray-400">B.Tech from Padmbhooshan Vasantdada Patil Institute of Technology</p>
+            <p className="text-gray-600 dark:text-gray-400">Full Stack Web-Developer | Solid Foundation in MERN Stack</p>
             <p className="text-gray-600 dark:text-gray-400">Pune,India</p>
           </motion.div>
 
@@ -52,11 +52,11 @@ export default function Home() {
           animate={{opacity : 1 , x : 0}}
           transition={{duration : 0.8}}
           className="space-y-3">
-            <h2 className="text-lg font-semibold">Building Scalable Solution for tomorrow</h2>
+            <h2 className="text-lg font-semibold">Engineering Scalable and Future-Ready Solutions</h2>
             <p className="text-gray-600 text-sm dark:text-gray-400 max-w-2xl">
-              Expert in cloud architecture with{" "}
-              <span className="text-black dark:text-white">AWS</span> and {" "}
-              <span className="text-black dark:text-white">Azure</span>. specialized in designing and implementing large-scale distributed systems. With deep expertise in {" "}
+              I'm a passionate{" "}
+              <span className="text-black dark:text-white">Full Stack Developer</span> with solid foundation in the {" "} <span className="text-black dark:text-white">MERN Stack</span>
+              , and a growing interest in Modern Technologies and {" "} <span className="text-black dark:text-white">Generative AI</span>. My programming journey began with C++ back in first year of my college , 
               <span className="text-black dark:text-white">
                 Python , Kubernates , and microservices architecture
               </span>
@@ -130,12 +130,12 @@ export default function Home() {
               <div className="space-y-2">
                 <div className="flex items-center justify-between">
                   <div className="space-y-1">
-                    <p className="text-sm text-gray-600 dark:text-gray-400">July , 2022-2024</p>
-                    <p className="font-medium">Software Education</p>
-                    <p className="text-blue-600 dark:text-gray-400">TCS</p>
+                    <p className="text-sm text-gray-600 dark:text-gray-400">May , 2021-2025</p>
+                    <p className="font-medium">B.Tech in Computer Science & Engineering</p>
+                    <p className="text-blue-600 dark:text-gray-400">Padmabooshan Vasantdada Patil Institute of Technology , Bavdhan , Pune </p>
                   </div>
                 </div>
-                <p className="text-gray-600 dark:text-gray-400">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique enim odio, quas veniam incidunt laudantium, ea deleniti eligendi vero repellat sequi iusto nihil blanditiis, cum repellendus mollitia a dolores doloribus sunt error in sint ipsum? Inventore delectus nisi similique voluptatem quos beatae ratione tenetur iusto assumenda, amet dolorum earum placeat?</p>
+                <p className="text-gray-600 dark:text-gray-400"></p>
               </div>
           </motion.section>
 
@@ -154,10 +154,10 @@ export default function Home() {
                     <Image src={pp} alt="project 1" className="rounded-lg mb-4"/>
                       <div className="flex-items-center justify-between">
                         <div>
-                          <h3 className="font-medium">Project 1</h3>
-                          <p className="text-sm text-gray-600 dark:text-gray-400">Next.js , MySQL , Drizzele</p>
+                          <h3 className="font-medium">OnlyChats</h3>
+                          <p className="text-sm text-gray-600 dark:text-gray-400">ReactJs , Nodejs , WebSockets ,ExpressJs ,  TailwindCss ,</p>
                         </div>
-                        <Button variant="ghost" size="icon">+</Button>
+                        <Button variant="ghost" size="icon">Live</Button>
                       </div>
                     
                   </CardContent>
